@@ -1,0 +1,5 @@
+{
+  "name": "Nova Invoice",
+  "description": "A smart, AI-powered invoicing and financial management dashboard using Gemini to extract invoice details and provide financial insights.",
+  "requestFramePermissions": []
+}
